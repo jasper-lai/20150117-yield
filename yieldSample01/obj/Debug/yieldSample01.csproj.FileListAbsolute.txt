@@ -1,0 +1,6 @@
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-yield\yieldSample01\bin\Debug\yieldSample01.exe.config
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-yield\yieldSample01\bin\Debug\yieldSample01.exe
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-yield\yieldSample01\bin\Debug\yieldSample01.pdb
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-yield\yieldSample01\obj\Debug\yieldSample01.csprojResolveAssemblyReference.cache
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-yield\yieldSample01\obj\Debug\yieldSample01.exe
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-yield\yieldSample01\obj\Debug\yieldSample01.pdb
